@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "997028233706",
+    "firebase_url": "https://donation-platform-93504-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "donation-platform-93504",
+    "storage_bucket": "donation-platform-93504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997028233706:android:973a82745a4b1e67d9b293",
+        "android_client_info": {
+          "package_name": "com.ynv_donation_platform.ynv_donation_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAPbhyRK3pVMd5Sm24DOP2lL6C_sCh2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
